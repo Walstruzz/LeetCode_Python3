@@ -1,3 +1,5 @@
 # LeetCode_Python3
 
-My LeetCode Note(Python 3)
+My LeetCode Note(Algorithm)(Python 3)
+
+Updating...
