@@ -12,7 +12,8 @@ for file in os.listdir("."):
             section[0] = section[0].zfill(3)
             title = ".".join(section)
         write.append("- " + "[" + title + "](" + file + ")")
-        
+
+write.sort()
 if len(write) > 0:
     with open("TOC.md", "w") as f:
         for line in write:
