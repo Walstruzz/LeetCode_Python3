@@ -13,6 +13,7 @@
 - [028.实现strStr()](28.implement_strstr.md)
 - [035.搜索插入位置](035.search_insert_position.md)
 - [036.报数](036.count_and_say.md)
+- [053.最大子序和](053.maximum_subarray.md)
 - [058.最后一个单词的长度](058.length_of_last_word.md)
 - [066.加一](066.plus_one.md)
 - [067.二进制求和](067.add_binary.md)
@@ -88,4 +89,3 @@
 - [961.重复N次的元素](961.n_repeated_element_in_size_2n_array.md)
 - [970.强整数](970.powerful_integers.md)
 - [989.数组形式的整数加法](989.add_to_array_form_of_integer.md)
-- [最大子序和](053.maximum_subarray.md)
