@@ -10,7 +10,7 @@
 - [021.合并两个有序链表](021.merge_two_sorted_lists.md)
 - [026.删除排序数字中的重复项](026.remove_duplicates_from_sorted_array.md)
 - [027.移除元素](027.remove_element.md)
-- [028.实现strStr()](28.implement_strstr.md)
+- [028.实现strStr()](028.implement_strstr.md)
 - [035.搜索插入位置](035.search_insert_position.md)
 - [036.报数](036.count_and_say.md)
 - [053.最大子序和](053.maximum_subarray.md)
