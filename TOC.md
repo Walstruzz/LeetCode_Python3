@@ -1,6 +1,7 @@
 - [001.两数之和](001.two_sum.md)
 - [002.两数相加](002.add_two_numbers.md)
 - [003.无重复字符的最长子串](003.longest_substring_without_repeating_characters.md)
+- [006.Z字形变换](006.Z字形变换.md)
 - [007.整数反转](007.reverse_integer.md)
 - [008.字符串转换整数(atoi)](008.string_to_integer_atoi.md)
 - [009.回文数](009.palindrome_number.md)
