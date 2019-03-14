@@ -26,6 +26,8 @@
 - [104.二叉树的最大深度](104.maximum_depth_of_binary_tree.md)
 - [107.二叉树的层次遍历 II](107.binary-tree-level-order-traversal-ii.md)
 - [108.将有序数组转换为二叉搜索树](108.convert-sorted-array-to-binary-search-tree.md)
+- [111.二叉树的最小深度](111.minimum-depth-of-binary-tree.md)
+- [118.杨辉三角](118.pascals-triangle.md)
 - [121.买卖股票的最佳时机](121.best_time_to_buy_and_sell_stock.md)
 - [122.买卖股票的最佳时机 II](122.best_time_to_buy_and_sell_stock_ii.md)
 - [125.验证回文串](125.valid_palindrome.md)
