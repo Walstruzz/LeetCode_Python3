@@ -39,6 +39,7 @@
 - [168.Excel表列名称](168.excel_sheet_column_title.md)
 - [169.求众数](169.majority_element.md)
 - [171.Excel表列序号](171.excel_sheet_column_number.md)
+- [189.旋转数组](189.rotate-array.md)
 - [217.存在重复元素](217.contains_duplicate.md)
 - [225.用队列实现栈](225.implement_stack_using_queues.md)
 - [231.2的幂](231.power_of_two.md)
