@@ -1,7 +1,10 @@
 import os
 
+if os.path.isfile("README.md"):
+    os.remove("README.md")
+
 for file in os.listdir("."):
-    if not file.endswith(".md") or file == "README.md":
+    if not file.endswith(".md"):
         continue
     with open( file, encoding="utf-8") as f:
         lines = f.readlines()
