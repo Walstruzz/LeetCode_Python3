@@ -14,7 +14,7 @@ for file in os.listdir("."):
                        "data: {}\n"
                        "top: {}\n"
                        "categories: Leetcode_python3\n"
-                       "---\n").format(title, "{{ date }}", top)
+                       "---\n").format(".".join([top, title]), "{{ date }}", top)
     lines = [add_line] + lines
     with open(file, "w", encoding="utf-8") as f:
         for line in lines:
