@@ -14,10 +14,9 @@ for file in os.listdir("."):
     top, title = title.split(".")
     add_line = ("---\n"
                        "title: {}\n"
-                       "data: {}\n"
                        "top: {}\n"
                        "categories: Leetcode_python3\n"
-                       "---\n").format(".".join([top, title]), "{{ date }}", top)
+                       "---\n").format(".".join([top, title]), top)
     lines = [add_line] + lines
     with open(file, "w", encoding="utf-8") as f:
         for line in lines:
